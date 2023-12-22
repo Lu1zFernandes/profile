@@ -2,8 +2,12 @@
 
 export default function Project(props) {
   return (
-    <div className="card">
-      <img src={props.img} className="card-img-top" alt={props.nameImg} />
+    <div className="card projectCard">
+      <img
+        src={props.img}
+        className="card-img-top projectImg"
+        alt={props.nameImg}
+      />
       <div className="card-body">
         <h5 className="card-title">{props.name}</h5>
         <p className="card-text">{props.description}</p>

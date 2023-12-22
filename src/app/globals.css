@@ -7697,6 +7697,9 @@ section.resume-section .resume-section-content {
 }
 
 @media (max-width: 546px) {
+  section.resume-section {
+    min-height: 100vh;
+  }
   .contactItem {
     font-size: 16px;
     text-wrap: wrap;
@@ -7719,20 +7722,23 @@ section.resume-section .resume-section-content {
     font-size: 20px;
   }
 
+  .card {
+    width: 250px;
+  }
+
   .contactItem {
-    font-size: 18px;
+    font-size: 16px;
+    text-wrap: pretty;
   }
   .devIcons {
     width: 1.75rem;
   }
   .line {
-    width: 100vh;
+    display: none;
   }
-  .card {
-    width: 90vh;
-  }
+
   section.resume-section {
-    width: 90vh;
+    width: 100%;
     margin: 10px;
     padding: 10px;
   }

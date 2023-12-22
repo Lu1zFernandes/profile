@@ -5,7 +5,7 @@ import "./globals.css";
 
 export default function Home() {
   return (
-    <div className="container-fluid p-0">
+    <div className="container-fluid p-0 mainContainter">
       <section className="resume-section" id="about">
         <div className="resume-section-content">
           <h2 className="mb-0">
@@ -98,8 +98,6 @@ export default function Home() {
             </div>
             <div className="col">
               <Project
-                img="/loading.gif"
-                nameImg="loading"
                 name="Projeto em andamento"
                 description="Desculpe, espere mais um pouco para a postagem desse projeto."
                 site="#projects"
@@ -459,7 +457,7 @@ export default function Home() {
                 className="subanchor mx-2 text-decoration-none"
                 href="mailto:luiz.fernandes31matos@gmail.com"
               >
-                luiz.fernandes31matos@gmail.com
+                luiz...@gmail.com
               </a>
             </li>
             <li className="h5 contactItem">Número: (16) 99639-2245</li>

@@ -1,3 +1,5 @@
+Olá, eu sou Luiz Fernandes, estarei atualizando esse portifólio continuamente, por isso, não se engane caso algo esteja errado, eu com certeza irei consertar futuramente
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
