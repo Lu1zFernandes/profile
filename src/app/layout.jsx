@@ -16,7 +16,7 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="pt-BR">
-      <body id="page-top" className={poppins.className}>
+      <body id="page-top">
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
         <nav
           className="navbar navbar-expand-lg navbar-dark bg-primary fixed-top"
