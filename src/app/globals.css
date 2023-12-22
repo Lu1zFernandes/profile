@@ -223,12 +223,12 @@ button {
   cursor: pointer;
 }
 
-button,
+/*button,
 [type="button"],
 [type="reset"],
 [type="submit"] {
   -webkit-appearance: button;
-}
+}*/
 button:not(:disabled),
 [type="button"]:not(:disabled),
 [type="reset"]:not(:disabled),
@@ -236,18 +236,18 @@ button:not(:disabled),
   cursor: pointer;
 }
 
+/*
 [type="search"] {
   outline-offset: -2px;
   -webkit-appearance: textfield;
 }
-
 rtl:raw:
 [type="tel"],
 [type="url"],
 [type="email"],
 [type="number"] {
   direction: ltr;
-}
+}*/
 
 [hidden] {
   display: none !important;
@@ -7666,7 +7666,7 @@ p.lead {
   font-size: 3rem;
 }
 
- {
+section.resume-section {
   display: flex;
   align-items: center;
   padding-left: 1rem;
