@@ -451,7 +451,7 @@ export default function Home() {
         <div className="resume-section-content">
           <h2 className="mb-5">Contato</h2>
           <ul className="fa-ul mb-0">
-            <li className="h5 contactItem">
+            <li className="h4 contactItem">
               Email:
               <a
                 className="subanchor mx-2 text-decoration-none"
@@ -460,8 +460,8 @@ export default function Home() {
                 luiz@gmail.com
               </a>
             </li>
-            <li className="h5 contactItem">Número: (16) 99639-2245</li>
-            <li className="h5 contactItem">
+            <li className="h4 contactItem">Número: (16) 99639-2245</li>
+            <li className="h4 contactItem">
               GITHUB:
               <a
                 className="subanchor mx-2 text-decoration-none"
@@ -471,7 +471,7 @@ export default function Home() {
                 Luiz Fernandes de Matos Neves
               </a>
             </li>
-            <li className="h5 contactItem">
+            <li className="h4 contactItem">
               linkedin:
               <a
                 className="subanchor mx-2 text-decoration-none"
@@ -481,7 +481,7 @@ export default function Home() {
                 Luiz Fernandes de Matos Neves
               </a>
             </li>
-            <li className="h5 contactItem">
+            <li className="h4 contactItem">
               Localização:
               <a
                 className="subanchor mx-2 text-decoration-none"
@@ -491,7 +491,7 @@ export default function Home() {
                 São Carlos - São Paulo
               </a>
             </li>
-            <li className="h5 contactItem">
+            <li className="h4 contactItem">
               <a
                 className="subanchor text-decoration-none"
                 href="https://drive.google.com/file/d/1aunxuhGlZdNjA0ku-JWeVoNK7HB3oh4o/view?usp=sharing"
