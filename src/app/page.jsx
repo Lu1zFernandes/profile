@@ -98,6 +98,26 @@ export default function Home() {
             </div>
             <div className="col">
               <Project
+                img="/CalculatorJS.jpg"
+                nameImg="CalculatorJS"
+                name="Calculadora com JavaScript"
+                description="Uma simples calculador usando apenas JavaScript."
+                site="https://lu1zfernandes.github.io/CalculatorJS/"
+                git="https://github.com/Lu1zFernandes/CalculatorJS"
+              />
+            </div>
+            <div className="col">
+              <Project
+                img="/WikiSports.jpg"
+                nameImg="WikiSports"
+                name="Wiki Sports"
+                description="Uma wiki de esportes, usando css e html"
+                site="https://lu1zfernandes.github.io/SportsWiki/"
+                git="https://github.com/Lu1zFernandes/SportsWiki"
+              />
+            </div>
+            <div className="col">
+              <Project
                 name="Projeto em andamento"
                 description="Desculpe, espere mais um pouco para a postagem desse projeto."
                 site="#projects"
