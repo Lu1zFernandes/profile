@@ -90,7 +90,7 @@ export default function Home() {
                 img="/nextstore.jpg"
                 nameImg="nextstore"
                 name="Next Store"
-                description="Projeto de uma Loja com produtos da Apple utilizando o 
+                description="Uma loja com produtos da Apple utilizando o 
                     Next.js."
                 site="https://newteste-ten.vercel.app//"
                 git="https://github.com/Lu1zFernandes/nextstore"
@@ -452,12 +452,12 @@ export default function Home() {
           <h2 className="mb-5">Contato</h2>
           <ul className="fa-ul mb-0">
             <li className="h5 contactItem">
-              E-mail:
+              Email:
               <a
                 className="subanchor mx-2 text-decoration-none"
                 href="mailto:luiz.fernandes31matos@gmail.com"
               >
-                luiz...@gmail.com
+                luiz@gmail.com
               </a>
             </li>
             <li className="h5 contactItem">Número: (16) 99639-2245</li>

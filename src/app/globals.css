@@ -7715,7 +7715,7 @@ section.resume-section .resume-section-content {
 
 @media (max-width: 425px) {
   .subanchor {
-    font-size: 20px;
+    font-size: 16px;
   }
 
   .devText {
@@ -7723,7 +7723,8 @@ section.resume-section .resume-section-content {
   }
 
   .card {
-    width: 250px;
+    width: 95%;
+    margin-left: 10px;
   }
 
   .contactItem {
@@ -7738,8 +7739,8 @@ section.resume-section .resume-section-content {
   }
 
   section.resume-section {
-    width: 100%;
-    margin: 10px;
-    padding: 10px;
+    width: 95%;
+    margin: 5px;
+    padding: 15px;
   }
 }
