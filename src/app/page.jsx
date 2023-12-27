@@ -118,6 +118,16 @@ export default function Home() {
             </div>
             <div className="col">
               <Project
+                img="/PokemonApi.jpg"
+                nameImg="PokemonApi"
+                name="Api de Pokemon"
+                description="Consumindo uma Api para um site de pokemons."
+                site="https://pokemon-api-rose.vercel.app/"
+                git="https://github.com/Lu1zFernandes/pokemon-api"
+              />
+            </div>
+            <div className="col">
+              <Project
                 name="Projeto em andamento"
                 description="Desculpe, espere mais um pouco para a postagem desse projeto."
                 site="#projects"
