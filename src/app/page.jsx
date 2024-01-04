@@ -79,7 +79,7 @@ export default function Home() {
                 img="/ReactStock.jpg"
                 nameImg="ReactStock"
                 name="React Stock"
-                description="Site para estocagem de itens, usando React e React
+                description="Site para estocagem de itens e produtos, usando React e React
                     Router."
                 site="https://exercicio-final.vercel.app/"
                 git="https://github.com/Lu1zFernandes/ExercicioFinal"
@@ -90,7 +90,7 @@ export default function Home() {
                 img="/nextstore.jpg"
                 nameImg="nextstore"
                 name="Next Store"
-                description="Uma loja com produtos da Apple utilizando o 
+                description="Uma loja simples com produtos da Apple utilizando o 
                     Next.js."
                 site="https://newteste-ten.vercel.app//"
                 git="https://github.com/Lu1zFernandes/nextstore"
@@ -101,7 +101,7 @@ export default function Home() {
                 img="/CalculatorJS.jpg"
                 nameImg="CalculatorJS"
                 name="Calculadora com JavaScript"
-                description="Uma simples calculador usando apenas JavaScript."
+                description="Uma simples calculador usando apenas JavaScript, HTML e CSS."
                 site="https://lu1zfernandes.github.io/CalculatorJS/"
                 git="https://github.com/Lu1zFernandes/CalculatorJS"
               />
@@ -111,7 +111,7 @@ export default function Home() {
                 img="/WikiSports.jpg"
                 nameImg="WikiSports"
                 name="Wiki Sports"
-                description="Uma wiki de esportes, usando css e html"
+                description="Uma wiki simples de esportes, usando apenas CSS e HTML."
                 site="https://lu1zfernandes.github.io/SportsWiki/"
                 git="https://github.com/Lu1zFernandes/SportsWiki"
               />
@@ -121,9 +121,19 @@ export default function Home() {
                 img="/PokemonApi.jpg"
                 nameImg="PokemonApi"
                 name="Api de Pokemon"
-                description="Consumindo uma Api para um site de pokemons."
+                description="Consumindo uma Api usando o para um site de pokemons, feito com React."
                 site="https://pokemon-api-rose.vercel.app/"
                 git="https://github.com/Lu1zFernandes/pokemon-api"
+              />
+            </div>
+            <div className="col">
+              <Project
+                img="/Spacex.jpg"
+                nameImg="SpaceBitX"
+                name="SpaceX"
+                description="Um site inspirado na SpaceX, utilizando Sass, CSS, HTML e Bootstrap."
+                site="https://spacex-sooty.vercel.app/"
+                git="https://github.com/Lu1zFernandes/spacex"
               />
             </div>
             <div className="col">
