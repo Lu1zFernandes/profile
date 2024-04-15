@@ -461,23 +461,6 @@ export default function Home() {
                 </a>
               </span>
             </li>
-            <li>
-              <span className="fa-li">
-                <a
-                  target="_blank"
-                  href="https://drive.google.com/file/d/1dGww687Tor6KRTDvLbDvha6CQUZzKsZC/view?usp=sharing"
-                  className="me-2 text-decoration-none"
-                >
-                  <img
-                    src="/informationTechnology.svg"
-                    alt="informationTechnology"
-                    className="mb-2 me-2 devIcons"
-                  />
-                  Competência transversal - Tecnologia da Informação e
-                  Comunicação
-                </a>
-              </span>
-            </li>
           </ul>
           <div>
             <p className="h6"> - Conhecimento completo do pacote Office</p>

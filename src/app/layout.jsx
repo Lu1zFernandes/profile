@@ -1,6 +1,5 @@
 /* eslint-disable @next/next/no-sync-scripts */
 /* eslint-disable @next/next/no-img-element */
-import { Poppins } from "next/font/google";
 
 import "./globals.css";
 
